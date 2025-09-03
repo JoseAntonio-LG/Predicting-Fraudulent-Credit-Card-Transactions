@@ -5,6 +5,8 @@ capable of detecting fraud in a large dataset of financial transactions, combini
 
 The data used can be found here: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
+And an explanatory article about the project can be found here: https://medium.com/@jose.lopesgomes012/predicting-fraudulent-credit-card-transactions-c1ae2d86d733
+
 ## Topics covered in the project
 
 1. Libraries
